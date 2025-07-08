@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech @ **NIT Rourkela** (CGPA: 8.97)
+- 🎓 B.Tech @ **NIT Rourkela** 
 - 🧠 Passionate about AI, full-stack dev, and solving complex problems
 ---
 
