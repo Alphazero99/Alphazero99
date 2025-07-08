@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast • Full Stack Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B81&center=true&width=435&lines=Passionate+about+AI+%26+Full+Stack;Building+FinTech+Tools+%F0%9F%92%B8;400%2B+DSA+problems+solved+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B81&center=true&width=435&lines=Passionate+about+AI+%26+Full+Stack;400%2B+DSA+problems+solved+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
