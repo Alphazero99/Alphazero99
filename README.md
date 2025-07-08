@@ -9,13 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Mechanical Engineering @ **NIT Rourkela** (CGPA: 8.97)
-- 💼 Full Stack Intern @ **Versha Anand Realty** (May–July 2025)
+- 🎓 B.Tech @ **NIT Rourkela** (CGPA: 8.97)
 - 🧠 Passionate about AI, full-stack dev, and solving complex problems
-- 🧾 Created **FinHelp**, a live stock analytics & investment forecasting tool
-- 👨‍🏫 Solved **400+ DSA problems** on LeetCode, Codeforces, and GFG
-- ♟️ Vice Captain of the **NITR Chess Team**
-
 ---
 
 ### 🚀 Tech Stack
